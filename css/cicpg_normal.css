@@ -15,8 +15,16 @@
 		width: 100%;
 		font-family: 'CICPG', 'EBGaramondRegular', 'Tahoma', 'Arial';
 		font-size: 14px;
-		margin-left: 10px;	
+		margin-left: -10px;
+		line-height: 170%;
+		position: absolute;
 	}
+
+.foot p
+{
+	margin-left: 13%;
+}
+
 .logo_pg
 	{
 		padding: 10px;

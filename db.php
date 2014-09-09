@@ -2,10 +2,11 @@
 ob_start();
 session_start();
 global $email_adm;
-$mostar_versao = 0;
-$include .= "../include/";
+//$mostar_versao = 0;
+//$include .= "../include/";
 $include = '../_include/_include/';
 $include = "../../include/";
+$include = "../_include/";
 //-------------------------------------- Paramentros para DEBUG
 //ini_set('display_errors', 255);
 //ini_set('error_reporting', 7);
@@ -54,5 +55,5 @@ return isset($_SERVER['HTTP_X_FORWARDED_HOST']) ? $_SERVER['HTTP_X_FORWARDED_HOS
 		: 'localhost'));
 }
 //require("db_cryogene.php");
-require("db_3cic.php");
+//require("db_3cic.php");
 ?>

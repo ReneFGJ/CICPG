@@ -32,7 +32,7 @@ echo $spot;
 		</TR>
 		<TR>
 			<TD>
-			<?php require("_banners.php"); ?>				
+			<a href="http://www.pucpr.br/arquivosUpload/5388495391409773801.pdf" target="_blank"><?php require("_banners.php"); ?></a>			
 			</TD>
 		</TR>
 	</table>

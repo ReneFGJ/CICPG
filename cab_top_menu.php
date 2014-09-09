@@ -34,9 +34,9 @@ switch ($LANG)
 		<li>
 			<a href="index.php#page01" class="menu_top">MENU</a>
 		<li>
-			<a href="index.php#page05" class="menu_top">PRAZOS</a>
-		<li>
 			<a href="index.php#page03" class="menu_top"><?php echo UpperCase($menui[2]);?></a>
+		<li>
+			<a href="index.php#page05" class="menu_top">PRAZOS</a>
 		<li>
 			<a href="index.php#page12" class="menu_top">FAQ</a>
 						
