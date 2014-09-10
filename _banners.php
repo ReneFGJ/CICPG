@@ -1,6 +1,6 @@
-<div id="slideShow">
-    <img src="img/organizacao.png" alt="Primeira Foto" />
-    <img src="img/organizacao_01.png" alt="Segunda Foto" />
+<div id="slideShow" style="z-index: 10;">
+    <img src="img/organizacao.jpg" alt="Primeira Foto" />
+    <img src="img/organizacao_01.jpg" alt="Segunda Foto" />
 </div>
 
 <script language="JavaScript" src="js/jcycle.js" type="text/javascript"></script>

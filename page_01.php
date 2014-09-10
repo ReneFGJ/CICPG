@@ -1,6 +1,7 @@
 <div id="page01" class="page_min pg01">
+	<h1>Menu Principal</h1>
 	<center>
-		<h1>MENU PRINCIPAL</h1>
+		
 		<table align="center" border=0 width="1000">
 			<TR align="center">
 				<TD>
@@ -188,12 +189,7 @@
 		background-color: #FF8258;
 	}
 
-	.fa{
-		float: left;
-		margin-left: 25%;
-		margin-top: 65%;
-		font-size: 32px;
-	}
+	
 
 	h5{
 		line-height: 16px;

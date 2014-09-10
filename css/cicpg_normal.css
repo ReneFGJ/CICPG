@@ -1,3 +1,11 @@
+.pg01{
+	margin-bottom: 100px;
+}
+.pg02 {
+	background-color: #94b65c;
+	height: 800px;
+	margin-top: 50px;
+}
 .pg04 { background-color: #F5F5DC; }
 .pg05 { background-color: #F0FFF0; }
 .pg06 { background-color: #D3D3D3; }
@@ -63,7 +71,7 @@
 	letter-spacing: 1px;
 }
 h1 {
-	margin-left: 50px;
+	margin-left: 13%;
 	font-family: 'CICPG', 'EBGaramondRegular', 'Tahoma', 'Arial';
 }
 .lt4 {
@@ -85,7 +93,7 @@ h1 {
 	border: 1px solid #2D332D;
 }
 p {
-	line-height: 140%;
+	line-height: 150%;
 	font-family: 'CICPG', 'Tahoma', 'Arial';
 	font-size: 15px;
 }
@@ -313,4 +321,28 @@ a.y-out:hover {
 a.link_bt {
 	color: #FFFFFF;
 	text-decoration: none;
+}
+
+.texto-apresentacao{
+	width: 900px;
+	margin-left: 13%;
+	margin-right: 13%;
+	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    -webkit-column-gap: 60px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 60px; /* Firefox */
+    column-gap: 60px;
+}
+
+.fa{
+		
+		margin-left: 6%;
+		margin-top: 1%;
+		padding-right: 10%;
+		font-size: 24px;
+	}
+
+.submissao-botao{
+	background-color: #497c32;
 }
