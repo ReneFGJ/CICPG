@@ -1,6 +1,65 @@
 <div id="page09" class="page_min pg09">
 	<A HREF="index.php#page01"><img src="img/icone_top.jpg" align="right" border=0 class="top" title="retorna ao menu"></A>
 	<h1><span>Programação</span></h1>
+
+	<table style="width:100%">
+	  <tr>
+	    <td>horários</td>
+	    <td>4 de novembro</td>
+	    <td>5 de novembro</td>		
+	    <td>6 de novembro</td>
+	  </tr>
+
+	   <tr>
+	    <td>8h00</td>
+	    <td>.</td>		
+	    <td>.</td>
+	    <td>Abertura</td>
+	  </tr>
+
+	  <tr>
+	    <td>9h00</td>
+	    <td>Palestra 4 com Dr. Eduardo Filgueiras Damasceno, Professor da Universidade Tecnológica Federal do Paraná - Pesquisa em Computação, Saúde Física e Reabilitação</td>		
+	    <td>Mesa Redonda 2 A definir Palestrante e Mediadores - Tema: O legado da Copa</td>
+	    <td>.</td>
+	  </tr>
+
+	  <tr>
+	  	<td>10h20</td>
+	  	<td>.</td>
+	  	<td>Mini Curso com Dr Milton Pires Ramos, Coordenador de IC da TECPAR - Redação Científica<br /> - Sessão de apresentação do programa Ciências sem Fronteira(CSF)</td>
+	  	<td>Oficina 1 com A definir Palestrante - Captação de recursos para o pesquisador <br /> - Mini Curso com Dr Milton Pires Ramos, Coordenador de IC da TECPAR - Minicurso Redação Científica</td>
+	  </tr>
+
+	  <tr>
+	    <td>5 de novembro/td>
+	    <td>Jackson</td>		
+	    <td>94</td>
+	  </tr>
+	  <tr>
+	    <td>6 de novembro</td>
+	    <td>Doe</td>		
+	    <td>80</td>
+	  </tr>
+	</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 	<table width="800" align="center">
 		<TD colspan=3 style="border-top: 1px solid #334333; padding-top: 30px;" class="lt3">4 Novembro 2014</TD>
 		</TR>
@@ -78,6 +137,6 @@
 		<BR>
 		<TR>
 
-	</table>
+	</table> -->
 	<BR><BR><BR>
 </div>
