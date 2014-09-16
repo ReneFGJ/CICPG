@@ -1,5 +1,4 @@
 <div id="page02" class="page_min pg02">
-	<A HREF="index.php#page01"><img src="img/icone_top.jpg" align="right" border=0 class="top" title="retorna ao menu"></A>
 	<h1>Apresentação</h1>
 
 	<div class="texto-apresentacao">
@@ -19,3 +18,4 @@
 					</p>
 	</div>
 </div>
+

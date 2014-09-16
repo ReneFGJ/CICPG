@@ -238,6 +238,15 @@
 			Suporte dos serviços de telecomunicações, permite, do mirante, uma visão de 360 graus da cidade. Seus 109,5 metros de altura equivalem a um edifício de 40 andares. </TD>
 		</TR>
 
+		<TR valign="top">
+			<TD colspan=2 align="right">
+				<img src="img/turismo/alta-regia.png" class="fig2" align="right">
+				<B>Hotel Alta-Réggia</B>
+			<BR>
+			<BR>
+				Para mais informações, acesse: <a href="http://www.altareggia.com.br/">www.altareggia.com.br</a>
+		</TR>
+
 	</table>
 	<BR><BR><BR><BR>
 </div>

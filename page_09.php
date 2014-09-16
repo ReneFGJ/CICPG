@@ -2,7 +2,7 @@
 	<A HREF="index.php#page01"><img src="img/icone_top.jpg" align="right" border=0 class="top" title="retorna ao menu"></A>
 	<h1><span>Programação</span></h1>
 
-	<table style="width:100%">
+	<table style="width: 70%; margin-left: 15%;">
 	  <tr>
 	    <td>horários</td>
 	    <td>4 de novembro</td>
@@ -12,9 +12,9 @@
 
 	   <tr>
 	    <td>8h00</td>
-	    <td>.</td>		
+	    <td>Abertura</td>		
 	    <td>.</td>
-	    <td>Abertura</td>
+	    <td>.</td>
 	  </tr>
 
 	  <tr>
@@ -32,15 +32,27 @@
 	  </tr>
 
 	  <tr>
-	    <td>5 de novembro/td>
-	    <td>Jackson</td>		
-	    <td>94</td>
+	    <td>14h00</td>
+	    <td>- Palestra 1 com Dr. Carlos Silla, Professor da Universidade Tecnológica Federal do Paraná - Desvendando os Caminhos da Pós-Graduação no Brasil e no Exterior<br /> - Mini Curso com Dr Milton Pires Ramos, Coordenador de IC da TECPAR - Redação Científica</td>		
+	    <td>- Palestra 6 com Dr. Carlos Eduardo Marquioni, Professor da Universidade Tuiuti do Paraná - as transformações na prática jornalística trazidas pela internet, dispositivos móveis e mídias sociais</td>
+	  	<td>- Oficina 2 com Dr. Roberto Pecoits, Professor da PUCPR - Oficina sobre a formação do pesquisador <br /> - Palestra 7 A definir <br /> - Oficina 3 com Dr Alvaro Amarante, Professor da PUCPR - Ciência, tecnologia e inovação</td>
 	  </tr>
+
 	  <tr>
-	    <td>6 de novembro</td>
-	    <td>Doe</td>		
-	    <td>80</td>
+	    <td>16h20</td>
+	    <td>- Palestra 2 com Dr. Alireza Mohebi Ashtiani, Professor da Universidade Tecnológica Federal do Paraná - Optimização e suas aplicações</td>		
+	    <td>- Mesa Redonda 1 com Ms. Palmira Sevegnani, Professor da Universidade Federal do Paraná - Pesquisa interdisciplinar: Arte e Cultura. Mediadores: Silvia Monteiro e Adalgisa Oliveira</td>
+	  	<td>.</td>
 	  </tr>
+
+	  <tr>
+	  	<td>17h00</td>
+	  	<td>.</td>
+	  	<td>.</td>
+	  	<td>Encerramento</td>
+	  </tr>
+
+
 	</table>
 
 

@@ -36,4 +36,6 @@ echo $spot;
 			</TD>
 		</TR>
 	</table>
+	
+	
 </div>

@@ -228,49 +228,7 @@ input.gn-search:focus {
 		-webkit-font-smoothing: antialiased;
 }
 
-.gn-icon-help::before {
-		content: "\e000"
-}
 
-.gn-icon-earth::before {
-		content: "\e004"
-}
-
-.gn-icon-cog::before {
-		content: "\e006"
-}
-
-.gn-icon-search::before {
-		content: "\e005"
-}
-
-.gn-icon-download::before {
-		content: "\e007"
-}
-
-.gn-icon-photoshop::before {
-		content: "\e001"
-}
-
-.gn-icon-illustrator::before {
-		content: "\e002"
-}
-
-.gn-icon-archive::before {
-		content: "\e00d"
-}
-
-.gn-icon-article::before {
-		content: "\e003"
-}
-
-.gn-icon-pictures::before {
-		content: "\e008"
-}
-
-.gn-icon-videos::before {
-		content: "\e009"
-}
 
 /* if an icon anchor has a span, hide the span */
 
@@ -283,12 +241,22 @@ input.gn-search:focus {
 
 .gn-icon-menu::before {
 		margin-left: -15px;
+		margin-top: 15px;
 		vertical-align: -2px;
 		width: 30px;
 		height: 3px;
 		background: white;
 		box-shadow: 0 3px #2d332d, 0 -6px white, 0 -9px #2d332d, 0 -12px white;
-		content: '';
+		content: 'Menu';
+
+
+
+		color: #ffffff;
+		list-style: none;
+		text-transform: none;
+		font-weight: 300;
+		font-family: 'CICPG', 'EBGaramondRegular', 'Tahoma', 'Arial';
+		line-height: 40px;
 }
 
 .no-touch .gn-icon-menu:hover::before,
