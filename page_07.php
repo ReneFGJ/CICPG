@@ -239,12 +239,21 @@
 		</TR>
 
 		<TR valign="top">
-			<TD colspan=2 align="right">
+			<TD colspan=2 align="left">
 				<img src="img/turismo/alta-regia.png" class="fig2" align="right">
 				<B>Hotel Alta-Réggia</B>
 			<BR>
 			<BR>
 				Para mais informações, acesse: <a href="http://www.altareggia.com.br/">www.altareggia.com.br</a>
+		</TR>
+
+		<TR valign="top">
+			<TD colspan=2 align="right">
+				<img src="img/turismo/goldenpark.png" class="fig2" align="right">
+				<B>Hotel Golden Park</B>
+			<BR>
+			<BR>
+				Para mais informações, acesse o <a href="http://www.nacionalinn.com.br/golden/hoteis/curitiba/principal.html">website do Hotel Gondel Park</a>
 		</TR>
 
 	</table>

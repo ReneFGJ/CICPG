@@ -1,4 +1,5 @@
 <div id="page02" class="page_min pg02">
+	<img src="img/logo.png" height="150" style="width: 180px; height: auto; float: left;" />
 	<h1>Apresentação</h1>
 
 	<div class="texto-apresentacao">

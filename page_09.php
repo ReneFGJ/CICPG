@@ -1,4 +1,5 @@
 <div id="page09" class="page_min pg09">
+	<img src="img/logo.png" height="150" style="width: 180px; height: auto; float: left;" />
 	<h1><span>Programação</span></h1>
 
 	<div id="programacao-info">

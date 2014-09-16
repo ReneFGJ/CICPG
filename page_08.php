@@ -1,8 +1,8 @@
 <div id="page08" class="page_min pg08">
-	<A HREF="index.php#page01"><img src="img/icone_top.jpg" align="right" border=0 class="top" title="retorna ao menu"></A>
+	<img src="img/logo.png" height="150" style="width: 180px; height: auto; float: left;" />
 	<h1>Comissão Organizadora</h1>
 
-	<table align="center" width="700">
+	<table style="margin-left: 15%" width="700">
 		<TR>
 			<TD style="color: #101010;" align="left"><h3 style="border-top:1px solid #333f33;"><B>Representantes Institucionais</B></h3> FAE: Profa. <B>Cleonice B. Pompermayer</B>
 			<BR>
@@ -103,7 +103,7 @@
 			<BR>
             <BR>
 			<h3 style="border-top:1px solid #333f33;"><B>Staff</B></h3>
-            <B>Alessandra Larcerda</B>
+            <B>Alessandra Lacerda</B>
 			<BR>
 			(secretária da IC)
             <BR>
@@ -113,7 +113,7 @@
 			(secretária da IC)
 			<BR>
 			<BR>
-            <B>Mariani Pimenta</B>
+            <B>Mariani Barbosa</B>
 			<BR>
 			(secretária da IC)
              <BR>
@@ -133,10 +133,13 @@
 			(Analista da PRPPG e Web Developer)
 			<BR>
 			<BR>
-			<B>Thales Rosa</B>
+			<B>Marilia Ferreira</B>
 			<BR>
-			(Analista da coordenação de IC)
-						
+			(Estagiária em Web-Design)
+			<BR>
+			<BR>
+			<BR>
+			<BR>			
 		</TR>
 	</table>
 </div>
