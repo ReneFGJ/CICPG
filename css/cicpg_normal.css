@@ -27,8 +27,9 @@
 		font-size: 14px;
 		margin-left: -10px;
 		line-height: 170%;
-		position: absolute;
+		
 		border-top: dashed 1px #2d332d;
+		clear: both;
 	}
 
 .foot p
@@ -81,7 +82,7 @@
 	letter-spacing: 1px;
 }
 h1 {
-	margin-left: 20%;
+	margin-left: 15%;
 	font-family: 'CICPG', 'EBGaramondRegular', 'Tahoma', 'Arial';
 }
 .lt4 {
@@ -342,7 +343,7 @@ a.link_bt {
     -webkit-column-gap: 60px; /* Chrome, Safari, Opera */
     -moz-column-gap: 60px; /* Firefox */
     column-gap: 60px;
-    border-left: 1px solid #2d332d;
+    
     background-color: #89ac4f;
 	padding: 40px;
 }
@@ -364,3 +365,76 @@ a.link_bt {
 .submissao-botao{
 	background-color: #497c32;
 }
+
+
+#programacao-info{
+	width: 70%;
+	margin-left: 15%;
+	height: 100%;
+	clear: both;
+}
+
+.programacao-horario{
+	width: 33%;
+	float: left;
+	margin-top: 30px;
+}
+
+.estilo-horario{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.data-programacao{
+	background-color: rgba(73, 125, 47, 1);
+	float: left;
+	width: 100%;
+	color: #fff;
+}
+
+.cor-data-programacao_1{background-color: rgba(73, 125, 47, 1);}
+.cor-data-programacao_2{background-color: rgba(102, 36, 131, 1);}
+.cor-data-programacao_3{background-color: rgba(243, 146, 47, 1);}
+
+.data-programacao h5{
+	font-size: 20px;
+	font-family: 'CICPG', 'EBGaramondRegular', 'Tahoma', 'Arial';
+	margin-left: 40px;
+
+}
+
+.celula-tabela-horario{
+	float: left;
+	width: 100%;
+	color: #232323;
+}
+
+.celula-tabela-horario p{
+	padding: 10px 40px;
+}
+
+.estilo_data4_1{ background-color: rgba(73, 125, 47, 0.8);}
+.estilo_data4_2{ background-color: rgba(73, 125, 47, 0.6);}
+.estilo_data4_3{ background-color: rgba(73, 125, 47, 0.4);}
+.estilo_data4_4{ background-color: rgba(73, 125, 47, 0.3);}
+.estilo_data4_5{ background-color: rgba(73, 125, 47, 0.2);}
+
+.estilo_data5_1{ background-color: rgba(102, 36, 131, 0.8);}
+.estilo_data5_2{ background-color: rgba(102, 36, 131, 0.6);}
+.estilo_data5_3{ background-color: rgba(102, 36, 131, 0.4);}
+.estilo_data5_4{ background-color: rgba(102, 36, 131, 0.2);}
+
+.estilo_data6_1{ background-color: rgba(243, 146, 47, 0.8);}
+.estilo_data6_2{ background-color: rgba(243, 146, 47, 0.6);}
+.estilo_data6_3{ background-color: rgba(243, 146, 47, 0.4);}
+.estilo_data6_4{ background-color: rgba(243, 146, 47, 0.2);}
+
+
+
+@media screen and (max-width: 600px) { 
+		.programacao-horario{
+			float: none;
+			margin:0;
+			width: 100%;
+		}
+	}
