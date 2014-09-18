@@ -4,7 +4,7 @@
 
 	<table style="margin-left: 15%" width="700">
 		<TR>
-			<TD style="color: #101010;" align="left"><h3 style="border-top:1px solid #333f33;"><B>Representantes Institucionais</B></h3> FAE: Profa. <B>Cleonice B. Pompermayer</B>
+			<TD style="color: #101010;" align="left"><h3 style="border-top:1px solid #333f33;" class=""><B>Representantes Institucionais</B></h3> FAE: Profa. <B>Cleonice B. Pompermayer</B>
 			<BR>
 			(Diretora de Campus e Coordenadora do Núcleo de Pesquisa Acadêmica da FAE Centro Universitário)
 			<BR>

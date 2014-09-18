@@ -1,9 +1,10 @@
 <div id="page11" class="page_min pg11">
-	<A HREF="index.php#page01"><img src="img/icone_top.jpg" align="right" border=0 class="top" title="retorna ao menu"></A>
+	<img src="img/logo.png" height="150" style="width: 180px; height: auto; float: left;" />
 	<h1><span>Política de adesão</span></h1>
+	<h3 class="titulo-politica-adesao">Política de adesão ao 3° Congresso Sul Brasileiro de Iniciação Científica e Pós-Graduação</h3>
 	<table width="900" align="center">
 		<tr>
-			<td><h3>Política de adesão ao 3° Congresso Sul Brasileiro de Iniciação Científica e Pós-Graduação</h3>
+			<td>
 			<P>
 				Para aderir, ao 3° Congresso Sul Brasileiro de Iniciação Científica e Pós-Graduação, as Instituição de Ensino Superior (IES) e Institutos de Pesquisa deverão enviar e-mail para cicpg@pucpr.br informando o número de alunos em Iniciação Científica e alunos de Pós-Graduação <I>stricto sensu</I> até <B>22 de setembro de 2014</B>. Ao aderir ao evento a IES garante a participação do aluno gratuitamente no Congresso por meio da cota destinada a cada IES.
 			</P><h4>Sobre cotas</h4>

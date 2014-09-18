@@ -1,5 +1,6 @@
 <div id="page04" class="page_min pg04">
 	<A HREF="index.php#page01"><img src="img/icone_top.jpg" align="right" border=0 class="top" title="retorna ao menu"></A>
+	<span class="breadcrumb"><a href="index.php">Início</a> > <a href="submissao-de-trabalhos.php">Submissão de trabalhos</a> > <a href="instrucoes-para-autores.php">Instruções para autores</a></span>
 	<h1>Instruções para autores</h1>
 	<table width="900" align="center">
 		

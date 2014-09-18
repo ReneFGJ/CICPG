@@ -16,6 +16,13 @@
 		</form>
 		<br />
 
+		<div class="instrucoes-autores">
+			<ul>
+				<li><a href="instrucoes-para-autores.php">Instruções para autores</li></a>
+				<li><a href="file/template_slide_1.pptx">Modelo de poster</a></li>
+			</ul>
+		</div>
+
 
 	</div>
 

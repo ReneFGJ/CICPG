@@ -1,7 +1,7 @@
 <div id="page05" class="page_min pg05">
-	<A HREF="index.php#page01"><img src="img/icone_top.jpg" align="right" border=0 class="top" title="retorna ao menu"></A>
-	<h1>Datas Importantes</h1>
-	<table align="center" width="700">
+	<img src="img/logo.png" height="150" style="width: 180px; height: auto; float: left;" />
+	<h1>Prazos</h1>
+	<table align="center" width="700" style="margin-left: 15%; margin-bottom: 50px;">
 
 				
 		<TR><TD colspan=3 style="border-top: 1px solid #334333; padding-top: 30px;" class="lt3">Julho 2014</TD></TR>

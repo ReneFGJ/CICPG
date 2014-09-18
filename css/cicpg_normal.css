@@ -354,6 +354,11 @@ a.link_bt {
 		font-size: 24px;
 	}
 
+.fac{
+	margin: 0;
+	padding: 0;
+}
+
 .submissao-botao{
 	background-color: #497c32;
 }
@@ -442,14 +447,122 @@ a.link_bt {
 			font-family: 'CICPG', 'EBGaramondRegular', 'Tahoma', 'Arial';
 			text-transform: uppercase;
 			font-weight: bold;
-			margin-left: 40%;
-			margin-bottom: 50px;
+			float: right;
+			margin-top: 55px;
 		}
 .bt_submit:hover{
 	background-color: #94b65c;
 }
 
+.instrucoes-autores{
+	width: 250px;
+	cursor: pointer;
+	font-family: 'CICPG', 'EBGaramondRegular', 'Tahoma', 'Arial';
+	font-size: 14px;
+	border: none;
+	background-color: #f2f2f2;
+	padding: 10px 20px;
+	line-height: 150%;
+	float: left;
+	margin-bottom: 30px;
+}
 
+.instrucoes-autores a{
+	color: #47224a;
+}
+
+.instrucoes-autores a:hover{
+	color: #47224a;
+}
+
+.instrucoes-autores a:visited{
+	color: #47224a;
+}
+
+.breadcrumb{
+	margin-left: 15%;
+	font-family: 'CICPG', 'EBGaramondRegular', 'Tahoma', 'Arial';
+	font-size: 12px;
+}
+
+h3{
+	
+	font-family: 'CICPG', 'EBGaramondRegular', 'Tahoma', 'Arial';
+	font-size: 22px;
+}
+
+h4{
+	font-family: 'CICPG', 'EBGaramondRegular', 'Tahoma', 'Arial';
+	font-size: 14px;
+	text-align: center;
+}
+
+.titulo-politica-adesao{
+	margin-left: 15%;
+}
+
+#mapas{
+	width: 70%;
+	margin-left: 15%;
+}
+
+#hoteis{
+	width: 70%;
+	margin-left: 15%;
+}
+
+.hotel-descricao{
+	float: left;
+	width: 30%;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.hotel-descricao div:first-child{
+	height: 120px;
+}
+
+#sobre-curitiba{
+	width: 70%;
+	margin-left: 15%;
+}
+
+.coluna-sobre-curitiba{
+	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+
+.detalhes-curitiba{
+	width: 80%;
+	margin-left: 15%;
+}
+
+.item-detalhe{
+	width: 30%;
+	float: left;
+	border: 1px solid #000;
+}
+
+.item-detalhe div{
+	float: left;
+}
+
+h5{
+	
+	font-family: 'CICPG', 'EBGaramondRegular', 'Tahoma', 'Arial';
+	font-size: 14px;
+}
+
+.materiais-divulgacao{
+	width: 80%;
+	margin-left: 15%;
+
+}
+
+.materiais-facebook{
+	margin-bottom: 50px;
+}
 
 @media screen and (max-width: 600px) { 
 		.programacao-horario{
@@ -457,5 +570,7 @@ a.link_bt {
 			margin:0;
 			width: 100%;
 		}
+
+		
 	}
 

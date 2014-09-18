@@ -1,7 +1,7 @@
 <div id="page12" class="page_min pg12">
-	<A HREF="index.php#page01"><img src="img/icone_top.jpg" align="right" border=0 class="top" title="retorna ao menu"></A>
+	<img src="img/logo.png" height="150" style="width: 180px; height: auto; float: left;" />
 	<h1><span>Perguntas Frequentes - FAQ</span></h1>
-	<table width="900" align="center">
+	<table width="900" align="center" style="margin-left: 15%;">
 		<tr>
 			<td><h2>ACESSO (ao site)</h2><h3></h3>
 			<P>

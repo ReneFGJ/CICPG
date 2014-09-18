@@ -1,7 +1,7 @@
 <div id="page13" class="page_min pg13">
-	<A HREF="index.php#page01"><img src="img/icone_top.jpg" align="right" border=0 class="top" title="retorna ao menu"></A>
+	<img src="img/logo.png" height="150" style="width: 180px; height: auto; float: left;" />
 	<h1><span>Galeria de homenageados</span></h1>
-	<table width="900" align="center">
+	<table width="900" align="center" style="margin-left: 15%;">
 		<tr>
 			<TD><h2>
 				<img src="img/logo.png" height="70"><BR>
