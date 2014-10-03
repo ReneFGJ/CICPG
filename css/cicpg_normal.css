@@ -562,6 +562,15 @@ h5{
 
 .materiais-facebook{
 	margin-bottom: 50px;
+	float: left;
+	width: 40%;
+	margin-right: 5%;
+}
+
+.materiais-impresso{
+	margin-bottom: 50px;
+	float: left;
+	width: 40%;
 }
 
 @media screen and (max-width: 600px) { 
@@ -569,6 +578,12 @@ h5{
 			float: none;
 			margin:0;
 			width: 100%;
+		}
+
+		.hotel-descricao{
+			float: left;
+			width: 100%;
+			text-align: center;
 		}
 
 		

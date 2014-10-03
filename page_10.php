@@ -1,7 +1,7 @@
 <div id="page10" class="page_min pg10">
 	<img src="img/logo.png" height="150" style="width: 180px; height: auto; float: left;" />
 	<h1><span>Localização e Hospedagem</span></h1>
-	<h3>Localização</h3>
+	<h3 style="margin-left: 15%">Localização</h3>
 	
 	<div id="mapas">
 		<img SRC="img/mapa/mapa_pucpr_2014.jpg" width="100%" />
@@ -13,7 +13,7 @@
 	<div id="hoteis">
 		<div class="hotel-descricao">
 			<div>
-				<img src="img/turismo/alta-regia.png" style="width: 180px;" />
+				<a href="http://www.altareggia.com.br/" target="_blank" ><img src="img/turismo/alta-regia.png" style="width: 180px;" /></a>
 			</div>
 			<div>
 				<h4>Hotel Alta-Reggia</h4>
@@ -23,7 +23,7 @@
 
 		<div class="hotel-descricao">
 			<div>
-				<img src="img/turismo/goldenpark.png" style="width: 180px;" />
+				<a href="http://www.nacionalinn.com.br/golden/hoteis/curitiba/principal.html" target="_blank"><img src="img/turismo/goldenpark.png" style="width: 180px;" /></a>
 			</div>
 			<div>
 				<h4>Hotel Golden Park</h4>
@@ -33,7 +33,7 @@
 
 		<div class="hotel-descricao">
 			<div>
-				<img src="img/turismo/nacionaltorres.JPG" style="width: 180px;" />
+				<a href="http://www.nacionaltorres.com.br/" target="_blank"><img src="img/turismo/nacionaltorres.JPG" style="width: 180px;" /></a>
 			</div>
 			<div>
 				<h4>Hotel Nacional Inn Torres</h4>
@@ -43,7 +43,7 @@
 
 		<div class="hotel-descricao">
 			<div>
-				<img src="img/turismo/hotel-cwb-express.png" style="width: 180px;" />
+				<a href="http://www.booking.com/hotel/br/bonaparte-express-curitiba.pt-br.html" target="_blank"><img src="img/turismo/hotel-cwb-express.png" style="width: 180px;" /></a>
 			</div>
 			<div>
 				<h4>Hotel CWB Express</h4>
