@@ -2,11 +2,16 @@
 ob_start();
 session_start();
 global $email_adm;
+
 //$mostar_versao = 0;
 //$include .= "../include/";
 //$include = '../_include/_include/';
-$include = "../../include/";
-$include = "../../_include/";
+$inc = "../../include/";
+if (is_dir($inc)) { $include = $inc; }
+$inc = "../../_include/";
+if (is_dir($inc)) { $include = $inc; }
+$inc = "../_include/";
+if (is_dir($inc)) { $include = $inc; }
 //-------------------------------------- Paramentros para DEBUG
 //ini_set('display_errors', 255);
 //ini_set('error_reporting', 7);
@@ -20,18 +25,18 @@ $img_pub_dir = '/img/ic/';
 $http_site = '/img/ic/';
 $http_public = '/img/ic/';
 $tab_max = "98%";
-$secu = "cryogene2009";
+$secu = "CICPG2014";
 //----------------------------------------------------------
 require($include."sisdoc_char.php"); 
 require($include."sisdoc_sql.php"); 
 //require($include.'sisdoc_debug.php');
 //-------------------------------------- Defini��es Iniciais
-define(site,'http://www.cryogene.inf.br');
-define(http,'http://www.cryogene.inf.br/');
+define(site,'http://www.pucpr.br');
+define(http,'http://www.pucpr.br/');
 define(idioma,"pt_br");
 define(path,''.$_SERVER['PATH_INFO']);
 define(host,getServerHost());
-define(secu,'cryogene2009');
+define(secu,'cicpg2009');
 $path = substr(path,1,100);
 $charset = "ASCII";
 //-------------------------------------- Leituras das Variaveis dd0 a dd99 (POST/GET)

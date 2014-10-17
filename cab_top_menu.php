@@ -37,7 +37,7 @@ switch ($LANG)
 					</nav>
 				</li> 
 				
-				<li class="submissao-botao"><a href="submissao-de-trabalhos.php">Submissão de trabalhos</a></li>
+				<!--<li class="submissao-botao"><a href="submissao-de-trabalhos.php">Submissão de trabalhos</a></li>-->
 				<li><a class="codrops-icon codrops-icon-prev" href="calendario.php"><span>Prazos</span></a></li>
 				<li><a class="codrops-icon codrops-icon-drop" href=""><span></span></a></li>
 
