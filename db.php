@@ -2,6 +2,8 @@
 ob_start();
 session_start();
 global $email_adm;
+$LANG = 'pt_BR';
+$idioma = $LANG;
 
 //$mostar_versao = 0;
 //$include .= "../include/";
@@ -60,5 +62,9 @@ return isset($_SERVER['HTTP_X_FORWARDED_HOST']) ? $_SERVER['HTTP_X_FORWARDED_HOS
 		: 'localhost'));
 }
 //require("db_cryogene.php");
-//require("db_3cic.php");
+$ip = $_SERVER['HTTP_HOST'];
+if ($ip == 'localhost')
+	{
+		require("db_3cic.php");
+	}
 ?>
