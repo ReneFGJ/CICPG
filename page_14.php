@@ -82,11 +82,21 @@
 			</TD>
 		</TR>
 		<tr valign="bottom">
-
-
 		</TR>
-		
-
-
 	</TABLE>
+	
+	<h1><span>Patrocinadores</span></h1>
+	<table width="900" border=0 align="center" style="border: none; margin-left: 15%;">
+		<tr valign="top">
+			<TD><A HREF="http://www.biomedcentral.com/" target="_blank"> <img src="img/logos/logo_biomedcentral.png" border=0 height="100">
+			</A> </TD>
+			<TD><img src="img/nada.png" width="80"></td>
+			<TD><A HREF"https://www.capes.br" target="_blank"><img src="img/logos/logo_capes.png" border=0 height="80" border=0 ></A>
+			<TD width="80%">&nbsp;</TD>
+			</A> </TD>
+		</tr>
+	</table>
+
+
+	
 </div>

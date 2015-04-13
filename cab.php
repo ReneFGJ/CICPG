@@ -34,6 +34,7 @@ function msg($x)
 	    <link rel="stylesheet" href="css/cicpg-inport-font.css">
 		<link rel="stylesheet" href="css/cicpg-header-main.css">
 		<link rel="stylesheet" href="css/cicpg_normal.css">
+		<link rel="stylesheet" href="css/style_semic_2014.css">
 		<link rel="stylesheet" href="css/font-awesome-4.2.0/css/font-awesome.css">
 		<link rel="stylesheet" href="css/font-awesome-4.2.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="css/component.css">
