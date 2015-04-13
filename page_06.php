@@ -6,9 +6,9 @@
 				
 				<TR>
 					<TD align="left" width="50%">
-					<P><B>Coordenação de Iniciação Científica - PUCPR</B>
+					<P><B>Pró Reitoria de Pesquisa e Pós Graduação da PUCPR</B>
 					<BR>
-					Pró Reitoria de Pesquisa e Pós Graduação da PUCPR
+					Coordenação de Iniciação Científica - PUCPR
 					<BR>
 					Rua: Imaculada Conceição, 1155 - Prado Velho
 					<BR>
